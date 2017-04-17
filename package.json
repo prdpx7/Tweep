@@ -1,0 +1,31 @@
+{
+  "name": "tweep",
+  "version": "0.1.0",
+  "description": "node module for https://twitter.com/TimFederle/status/659798794863775744",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuck007/tweep.git"
+  },
+  "keywords": [
+    "dating",
+    "twitter",
+    "digging"
+  ],
+  "author": "Pradeep Khileri <pradeepchoudhary009@gmail.com> (https://zuck007.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zuck007/tweep/issues"
+  },
+  "homepage": "https://github.com/zuck007/tweep#readme",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "standard": "^10.0.2"
+  }
+}
