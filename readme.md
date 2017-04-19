@@ -2,7 +2,7 @@
 
 > helper node module for
 
-<img height="200" width="400" src="./screenshot.png">
+[![tweet](screenshot.png)](https://twitter.com/TimFederle/status/659798794863775744)
 
 [![MITlicensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/zuck007/tweep/master/LICENSE)
 

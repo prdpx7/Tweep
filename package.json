@@ -1,6 +1,6 @@
 {
   "name": "tweep",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "node module for https://twitter.com/TimFederle/status/659798794863775744",
   "main": "index.js",
   "scripts": {
