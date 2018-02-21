@@ -4,7 +4,7 @@
 
 [![tweet](screenshot.png)](https://twitter.com/TimFederle/status/659798794863775744)
 
-[![MITlicensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/zuck007/tweep/master/LICENSE)
+[![MITlicensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/prdpx7/tweep/master/LICENSE)
 
 [Get Twitter CONSUMER KEYS & ACCESS TOKENS](https://apps.twitter.com/)
 
